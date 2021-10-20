@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaRecorder</string>
+    <string name="swipe_to_cancel">Swipe to cancel</string>
+</resources>
