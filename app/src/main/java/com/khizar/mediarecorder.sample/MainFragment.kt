@@ -1,11 +1,11 @@
-package com.khizar.mediarecorder
+package com.khizar.mediarecorder.sample
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.khizar.mediarecorder.databinding.FragmentMainBinding
+import com.khizar.mediarecorder.sample.databinding.FragmentMainBinding
 
 class MainFragment : Fragment() {
     private lateinit var binding: FragmentMainBinding

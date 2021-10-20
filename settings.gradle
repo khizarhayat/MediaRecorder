@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MediaRecorder"
 include ':app'
+include ':mediaRecorderLib'

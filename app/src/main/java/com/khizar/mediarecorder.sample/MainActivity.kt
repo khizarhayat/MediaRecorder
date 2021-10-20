@@ -1,4 +1,4 @@
-package com.khizar.mediarecorder
+package com.khizar.mediarecorder.sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
